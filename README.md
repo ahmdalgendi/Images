@@ -14,3 +14,7 @@
 
 * https://unsplash.com/collections/3172234/instagram-images
 * https://unsplash.com/collections/2107618/photoshop
+-------------
+## How to download from unsplash:
+
+    https://github.com/yash1th/unsplash-album-downloader 
